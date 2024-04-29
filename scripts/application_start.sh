@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo systemctl start pm2
+sudo pm2 start app
