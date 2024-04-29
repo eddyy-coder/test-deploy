@@ -1,5 +1,5 @@
 #!/bin/bash
 sudo apt-get -y update
-cd /home/ubuntu/octor-backend
-git checkout dev
+cd /home/ubuntu/test-deploy
+git checkout main
 git pull
