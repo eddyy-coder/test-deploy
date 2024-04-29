@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo systemctl stop pm2
+sudo pm2 stop all
