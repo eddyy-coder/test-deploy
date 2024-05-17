@@ -2,9 +2,9 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /home/ubuntu/octor-backend
+    destination: /home/ubuntu/test-deploy
 permissions:
-  - object: /home/ubuntu/octor-backend
+  - object: /home/ubuntu/test-deploy
     pattern: "**"
     owner: ubuntu
     group: ubuntu
